@@ -119,7 +119,7 @@ html::-webkit-scrollbar-track{
     }
 
     .about__p{
-        background-image: linear-gradient(rgba(0, 0, 0, 0.721), rgba(0, 0, 0, 0.761)), url("./img/fondo_moles_p.jpg");
+        background-image: linear-gradient(rgba(40, 39, 39, 0.276), rgba(39, 38, 38, 0.265)), url("./img/fondo_moles_p.jpg");
         background-size: cover;
         background-position-y: center;
         text-align: justify;
