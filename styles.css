@@ -68,8 +68,8 @@ html::-webkit-scrollbar-track{
         background-position: center;
         text-align: center;
         padding: 1px;
-        padding-bottom: 5rem;
-        padding-top: 5rem;
+        padding-bottom: 11rem;
+        padding-top: 7rem;
         color: #fff;
 
     }
@@ -80,8 +80,7 @@ html::-webkit-scrollbar-track{
 
     .header__h1{
         font-size: 4rem;
-        margin-top: 6rem;
-        margin-bottom: 2rem;
+        margin-bottom: 1rem;
     }
 
     .header__p{
@@ -120,8 +119,13 @@ html::-webkit-scrollbar-track{
     }
 
     .about__p{
+        background-image: linear-gradient(rgba(0, 0, 0, 0.721), rgba(0, 0, 0, 0.761)), url("./img/fondo_moles_p.jpg");
+        background-size: cover;
+        background-position-y: center;
         text-align: justify;
         line-height: 25px;
+        color: white;
+        padding: 1rem;
     }
 
     .about__p--video{
@@ -526,7 +530,7 @@ html::-webkit-scrollbar-track{
     }
     .header__h1{
         font-size: 3rem;
-        margin-top: 2rem;
+        margin-top: -4rem;
         margin-bottom: 2rem;
     }
 
